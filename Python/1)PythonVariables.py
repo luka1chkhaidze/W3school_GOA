@@ -39,3 +39,33 @@ print(x,X)
 x = 2
 x = 3
 print(x,x)
+
+#if there is a time, were we have a two word variable, we use underscore (_)
+
+one_side = ("for example 5")
+print(one_side)
+
+#variable CAN NOT start with a integer simboll (number)
+
+#2side = ("qweqweqwe")
+
+#print(2side)
+#python will tell you when something is wrong with the block of code at all times.
+
+#_________________________________________________
+
+#python also has function where we can make one variable into # different values:
+
+#example 1:
+
+x , y , z = "orange" , "pear" , "apple"
+print(x,y,z)
+
+#example 2 :
+
+fruit = ["banana" , "apple"]
+
+print(fruit)
+
+
+
